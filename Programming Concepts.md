@@ -87,3 +87,56 @@ bullets.splice(i,1)
 }
 
 }
+
+I will use class to make pense and ground
+
+class ground{
+
+constructor(){
+
+}
+
+show(){
+
+}
+
+}
+
+I will use class and shapes and colors and Conditional Statements to make cannons
+
+class cannon{
+
+constructor(){
+
+}
+
+show(){
+
+circle()
+
+push()
+
+fill()
+
+rect()
+
+pop()
+
+}
+
+update(){
+
+if(){
+
+angle += 0.1
+
+} else if(){
+
+angle -= 0.1
+
+}
+
+}
+
+}
+

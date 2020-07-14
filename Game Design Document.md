@@ -15,3 +15,5 @@ Second options button. If you click this button. you can choose color of cannon.
 Third Credits button. If you click this button. you can know who make this game and who help to make a game.
 
 Four How to play button. If you click this button you can know how to play the game.
+
+https://user-images.githubusercontent.com/65002076/87440361-d73a3c00-c62c-11ea-87c7-77060757a428.png

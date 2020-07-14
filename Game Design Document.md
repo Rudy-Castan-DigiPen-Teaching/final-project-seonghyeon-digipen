@@ -16,4 +16,6 @@ Third Credits button. If you click this button. you can know who make this game 
 
 Four How to play button. If you click this button you can know how to play the game.
 
+game look like this image 
+
 ![image](https://user-images.githubusercontent.com/65002076/87440361-d73a3c00-c62c-11ea-87c7-77060757a428.png)
